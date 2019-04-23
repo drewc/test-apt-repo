@@ -1,0 +1,25 @@
+Codename: xenial
+Date: Tue, 23 Apr 2019 19:25:04 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+ ad9dbb9d2eb835a742116a01190681ab 1273 main/source/Sources
+ 22591f8ae22c4fb50a36f0b789b97cb1 732 main/source/Sources.xz
+ 92f9b0ec8b2656847b612632542f1735 37 main/source/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+ d16717bb372faec01ac17eb68c2e1dc5f744b4ef 1273 main/source/Sources
+ fadb75b7924f1ccb640da4e16784f17c57970c96 732 main/source/Sources.xz
+ 6bf4af37ca3d5dec33f6438d83b5c1483de0833a 37 main/source/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+ 5b9708be31987424e560c39e063b9b4804581e231315dfba9b12e25342c7045e 1273 main/source/Sources
+ 7578c92dddaa1c08508f8f2e4534a279e8ebc6ebd9cad28bdeaa6e65982e53d2 732 main/source/Sources.xz
+ 4e2108e8de58972a48b94535ab5f7e553edddf6b18462bf8ba44584b1161a0d9 37 main/source/Release
